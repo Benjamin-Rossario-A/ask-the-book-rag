@@ -3,8 +3,7 @@
 A retrieval-augmented generation (RAG) app that answers questions about a novel and shows **which chapter and page** each answer came from. Built with LangChain, Chroma, local embeddings, Gemini and a Streamlit chat UI. I tested it on *A Game of Thrones*.
 
 
-<!-- ![App screenshot](screenshot.png) -->
-
+![App screenshot](screenshot.png)
 ## Features
 
 - Answers grounded in retrieved passages, with chapter and page citations
